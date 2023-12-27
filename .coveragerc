@@ -1,0 +1,6 @@
+[run]
+source = url_shortener
+omit = 
+    tests/*
+    autoapp.py
+
